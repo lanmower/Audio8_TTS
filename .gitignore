@@ -24,3 +24,5 @@ prepared_data/
 *.pt
 *.ckpt
 pytorch_model*.bin
+config.bat
+node_modules
