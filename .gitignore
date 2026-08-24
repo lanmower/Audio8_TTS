@@ -45,3 +45,5 @@ pytorch_model*.bin
 # via candle_runtime/scripts/extract_onnx_weights.py + repack_quantized_weights) and
 # scratch diagnostic dumps - not source, not distributed with the repo.
 /candle_runtime/weights/
+config.bat
+node_modules
